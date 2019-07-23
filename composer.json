@@ -42,7 +42,7 @@
             "email": "arden@tujiao.com",
             "homepage": "https://www.tujiao.com",
             "role": "Developer"
-        },
+        }
     ],
     "autoload": {
         "psr-0": {
