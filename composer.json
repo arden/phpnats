@@ -36,7 +36,13 @@
             "email": "glopezdetorre@gmail.com",
             "homepage": "http://gorka.io",
             "role": "Developer"
-        }
+        },
+        {
+            "name": "arden",
+            "email": "arden@tujiao.com",
+            "homepage": "https://www.tujiao.com",
+            "role": "Developer"
+        },
     ],
     "autoload": {
         "psr-0": {
